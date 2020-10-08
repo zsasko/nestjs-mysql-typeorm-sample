@@ -25,7 +25,7 @@ Then please install all the app depencencies by executing the following command:
 ```
 npm install
 ```
-and you can run the app by executing the following script:
+and you can run the app by executing the following command:
 ```
 npm run start:dev
 ```
