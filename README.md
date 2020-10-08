@@ -21,7 +21,11 @@ In order to start this sample, please make sure that you specify the right data 
     "synchronize": true
 }
 ```
-and run the app by executing the following script:
+Then please install all the app depencencies by executing the following command:
+```
+npm install
+```
+and you can run the app by executing the following script:
 ```
 npm run start:dev
 ```
